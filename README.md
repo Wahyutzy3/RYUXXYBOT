@@ -1,0 +1,2 @@
+# RYUXXYBOT
+Ini bot cok
